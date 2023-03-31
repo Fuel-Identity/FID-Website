@@ -65,6 +65,10 @@
     background: -webkit-linear-gradient(315deg, #051718, #295e39);
 }
 
+.bg-gradient-i {
+    background: -webkit-linear-gradient(45deg, #051718, #295e39);
+}
+
 .bd-gradient-r {
     border-right: 2px;
     border-style: solid;

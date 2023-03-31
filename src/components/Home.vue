@@ -12,7 +12,7 @@ const animations = [
   fade_in(title, 100),
   fade_up(box2, 600),
   fade_up(box1, 700),
-  fade_up(box3, 700),
+  fade_up(box3, 800),
 ];
 
 onMounted(() => {

@@ -1,7 +1,7 @@
 <script setup>
 import { onBeforeUnmount, onMounted, ref } from "vue";
 import { fade_in } from "../anime";
-import logo from "../assets/image.png";
+import logo from "../assets/Fuel_Logo_ID.png";
 
 const header = ref();
 
