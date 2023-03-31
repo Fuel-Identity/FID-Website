@@ -76,7 +76,7 @@ onBeforeUnmount(() => animations.forEach((animation) => animation.unmount()));
         ref="box3"
         class="h-full bg-neutral-900 rounded-xl w-[30%] p-5 space-y-5 flex flex-col justify-center items-left">
           <h2 class="font-EudoxusB text-3xl text-gradient bd-gradient-b w-fit">
-            Were using Sway !
+            We are using Sway !
           </h2>
           <div class="font-EudoxusL text-lg space-y-3 text-left">
             <p>
