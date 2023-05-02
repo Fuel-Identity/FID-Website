@@ -62,11 +62,11 @@
 }
 
 .bg-gradient {
-    background: -webkit-linear-gradient(315deg, #051718, #295e39);
+    background: -webkit-linear-gradient(315deg,#409058, #051718);
 }
 
 .bg-gradient-i {
-    background: -webkit-linear-gradient(45deg, #051718, #295e39);
+    background: -webkit-linear-gradient(-45deg, #051718, #295e39);
 }
 
 .bd-gradient-r {
