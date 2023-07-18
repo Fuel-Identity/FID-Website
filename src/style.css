@@ -66,7 +66,7 @@
 }
 
 .bg-gradient-i {
-    background: -webkit-linear-gradient(-45deg, #051718, #295e39);
+    background: -webkit-linear-gradient(-45deg, #17191a, #a74dc2);
 }
 
 .bd-gradient-r {
@@ -87,4 +87,12 @@
     border-style: solid;
     border-image: linear-gradient(to bottom, #1105c5, #f70299) 1;
 
+}
+
+.bg-fuelid {
+    background-image: url('/src/assets/bg-fuelid.png');
+}
+
+.green {
+    border-bottom: 1px #004528 solid;
 }

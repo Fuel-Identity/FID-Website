@@ -20,8 +20,8 @@ onBeforeUnmount(() => animations.forEach((animation) => animation.unmount()));
 
 
 <template>
-  <div class="bg-gradient-i h-screen flex justify-center items-center">
-    <div class="w-full flex space-x-8 justify-center items-center h-min-[35vh] text-slate-200">
+  <div class="bg-neutral-900 h-screen w-full flex justify-center items-center">
+    <div class="w-full flex space-x-8 justify-center items-center h-min-[35vh] text-slate-200 absolute">
       <div ref="box1"
         class="h-full bg-neutral-900 rounded-xl w-[30%] p-5 space-y-5  flex flex-col justify-center items-left bd-black">
         <h2 class="font-EudoxusB text-3xl text-gradient bd-gradient-b w-fit">
